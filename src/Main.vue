@@ -1,5 +1,4 @@
 <script>
-const { result } ;
     </script>
 <template>
 <div class="grid grid-cols-4 gap-3 bg-[#272727] rounded-md">
